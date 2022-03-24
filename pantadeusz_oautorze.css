@@ -1,3 +1,28 @@
-body{
-    background-color: black;
+#tytul{
+    text-align: center;
+}
+p{
+    font-size: 1.3em;
+}
+#scrollspyHeading1{
+    font-size: 2em;
+}
+#scrollspyHeading2{
+    font-size: 2em;
+}
+#scrollspyHeading3{
+    font-size: 2em;
+}
+#scrollspyHeading4{
+    font-size: 2em;
+}
+a{
+    font-size: 1.8em;
+}
+#menu{
+    font-size: 1.8em;
+}
+#adamM{
+    width: 260px;
+    height: 400px;
 }
